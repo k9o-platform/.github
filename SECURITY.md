@@ -4,7 +4,7 @@
 
 Please do not report security problems in a public issue.
 
-Email help@kilimanjaro.dev with the subject "Security" and include:
+Email engineering@kilimanjaro.dev with the subject "Security" and include:
 
 - what you found, and which package and version it affects
 - the steps to reproduce it

@@ -21,8 +21,8 @@ Open an issue that says what you want to do and why. If you already have a fix, 
 
 ## Security issues
 
-Do not open a public issue. See [SECURITY](https://github.com/k9o-dev/.github/blob/main/SECURITY.md).
+Do not open a public issue. See [SECURITY](https://github.com/k9o-platform/.github/blob/main/SECURITY.md).
 
 ## Questions
 
-See [SUPPORT](https://github.com/k9o-dev/.github/blob/main/SUPPORT.md).
+See [SUPPORT](https://github.com/k9o-platform/.github/blob/main/SUPPORT.md).
