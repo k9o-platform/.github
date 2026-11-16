@@ -2,15 +2,12 @@
   <title id="hub-platform-t">Architecture at a glance</title>
   <desc id="hub-platform-d">Your application and the k9o CLI call the Kilimanjaro API Gateway, which fronts the Governed Database, Keep, Pulse, Gate and Kibo, runs your agents and functions in the Firelock sandbox, and records every call in the audit trail. Your own KMS or HSM stays on your side and Kibo encrypts against it on your machine.</desc>
   <style>
-    :root { --hs-10264a: #eef3ff; --hs-0b1b35: #ffffff; --hs-8fb0ff: #2f63d8; --hs-9db6e8: #4a5f8a;
-  --hs-ffffff: #0b1b35; --hs-b8cbf2: #51658f; --hs-dbe7ff: #dbe7ff; --hs-eaf1ff: #0b1b35;
-  --hs-1f3a6b: #c9d6f2; --hs-4f7cff: #4f7cff; --hs-7da2ff: #5a82e0; --hs-9ec0ff: #1448b8;
-  --hs-1a66ff: #1a66ff; --hs-34d399: #12a06f; --hs-ff8f8f: #d64545; --hs-onaccent: #ffffff; }
-    @media (prefers-color-scheme: dark) { :root { --hs-10264a: #10264a; --hs-0b1b35: #0b1b35; --hs-8fb0ff: #8fb0ff; --hs-9db6e8: #9db6e8;
+    :root { --hs-10264a: #10264a; --hs-0b1b35: #0b1b35; --hs-8fb0ff: #8fb0ff; --hs-9db6e8: #9db6e8;
   --hs-ffffff: #ffffff; --hs-b8cbf2: #b8cbf2; --hs-dbe7ff: #dbe7ff; --hs-eaf1ff: #eaf1ff;
   --hs-1f3a6b: #1f3a6b; --hs-4f7cff: #4f7cff; --hs-7da2ff: #7da2ff; --hs-9ec0ff: #9ec0ff;
-  --hs-1a66ff: #1a66ff; --hs-34d399: #34d399; --hs-ff8f8f: #ff8f8f; --hs-onaccent: #ffffff; } }
+  --hs-1a66ff: #1a66ff; --hs-34d399: #34d399; --hs-ff8f8f: #ff8f8f; --hs-onaccent: #ffffff; }
   </style>
+  <rect x="0" y="0" width="1200" height="634" fill="#0d1116"/>
   <defs>
     <marker id="hub-platform-ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" style="fill:var(--hs-8fb0ff)"/></marker>
     <marker id="hub-platform-aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" style="fill:var(--hs-ffffff)"/></marker>
