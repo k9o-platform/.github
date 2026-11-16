@@ -7,7 +7,7 @@
   --hs-1f3a6b: #1f3a6b; --hs-4f7cff: #4f7cff; --hs-7da2ff: #7da2ff; --hs-9ec0ff: #9ec0ff;
   --hs-1a66ff: #1a66ff; --hs-34d399: #34d399; --hs-ff8f8f: #ff8f8f; --hs-onaccent: #ffffff; }
   </style>
-  <rect x="0" y="0" width="1200" height="634" fill="#0d1116"/>
+  <rect x="0" y="0" width="1200" height="634" rx="16" fill="#0d1116"/>
   <defs>
     <marker id="hub-platform-ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" style="fill:var(--hs-8fb0ff)"/></marker>
     <marker id="hub-platform-aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" style="fill:var(--hs-ffffff)"/></marker>
